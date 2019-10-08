@@ -1,0 +1,9 @@
+{
+	"data":[
+		{"id":"123456789","name":"海绵宝宝","phone":"111111","img":"http://localhost/22/imgs/12.jpg","money":"10","discount":"5","point":"100","address":"海底某处的菠萝屋","mail":"haimian@369.com"},
+		{"id":"987654321","name":"派大星","phone":"2222222","img":"http://localhost/22/imgs/13.png","money":"20","discount":"4","point":"200","address":"海底某处的岩石下","mail":"paidaxing@369.com"},
+		{"id":"147258369","name":"章鱼哥","phone":"33333","img":"http://localhost/22/imgs/14.jpg","money":"30","discount":"3","point":"400","address":"海底某处的章鱼状铁皮屋","mail":"zhangyuge@369.com"},
+		{"id":"369258147","name":"蟹老板","phone":"44444","img":"http://localhost/22/imgs/15.jpg","money":"40","discount":"2","point":"700","address":"海底某处的蟹黄堡店","mail":"xielaoban@369.com"},
+		{"id":"789456123","name":"皮老板","phone":"","img":"http://localhost/22/imgs/16.jpg","money":"50","discount":"1","point":"900","address":"海底某处的小吃店","mail":"pilaoban@369.com"}
+	]
+}
